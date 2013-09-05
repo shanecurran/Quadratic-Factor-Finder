@@ -1,0 +1,1 @@
+A small script that calculates the quadratic factors for quadratic trinomials in algebra.
